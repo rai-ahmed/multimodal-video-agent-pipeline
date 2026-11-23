@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.env
+venv/
+.venv/
+*.blend
+*.blend1
+output/
+renders/
+temp/
+*.mp4
+*.wav
+*.mp3
